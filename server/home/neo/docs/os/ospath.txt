@@ -1,0 +1,11 @@
+os.path.abspath(path)
+Return a normalized absolutized version of the pathname path. On most platforms, 
+this is equivalent to calling the function normpath() as follows: normpath(join(os.getcwd(), path)).
+
+Changed in version 3.6: Accepts a path-like object.
+
+os.path.basename(path)
+Return the base name of pathname path. This is the second element of the pair 
+returned by passing path to the function split(). 
+Note that the result of this function is different from the Unix basename 
+program; where basename for '/foo/bar/' returns 'bar', the basename() function returns an empty string ('').

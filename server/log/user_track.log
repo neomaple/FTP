@@ -1,0 +1,63 @@
+2018-04-04 12:06:21,570 -- INFO -- neo just login
+2018-04-04 12:06:51,078 -- INFO -- alex just login
+2018-04-04 14:22:53,555 -- INFO -- neo just login
+2018-04-04 14:23:26,411 -- INFO -- alex just login
+2018-04-04 16:43:13,413 -- INFO -- neo just login
+2018-04-04 16:43:39,532 -- INFO -- alex just login
+2018-04-04 16:45:35,489 -- INFO -- neo downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序\server\home\neo\pics\coder.png
+2018-04-04 16:54:39,228 -- INFO -- neo just login
+2018-04-04 16:55:19,892 -- INFO -- alex just login
+2018-04-04 16:57:49,003 -- INFO -- neo just login
+2018-04-04 16:58:18,756 -- INFO -- alex just login
+2018-04-04 17:00:31,265 -- INFO -- neo downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\neo\video\test.mp4
+2018-04-04 17:02:04,656 -- INFO -- alex downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\alex\coder.png
+2018-04-04 17:02:29,104 -- INFO -- neo downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\neo\video\kenan.mp4
+2018-04-04 17:03:34,555 -- INFO -- alex just login
+2018-04-04 17:04:43,343 -- INFO -- egon just login
+2018-04-04 17:17:51,035 -- INFO -- neo just login
+2018-04-04 17:20:07,211 -- INFO -- alex just login
+2018-04-04 17:20:49,844 -- INFO -- alex just login
+2018-04-04 17:21:48,942 -- INFO -- alex just login
+2018-04-04 17:24:15,013 -- INFO -- egon just login
+2018-04-04 17:26:13,657 -- INFO -- alex just login
+2018-04-04 17:26:18,213 -- INFO -- mike just login
+2018-04-04 18:28:56,095 -- INFO -- neo just login
+2018-04-04 18:29:25,208 -- INFO -- alex just login
+2018-04-04 18:31:09,354 -- INFO -- alex downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\alex\coder.png
+2018-04-04 18:31:34,122 -- INFO -- egon just login
+2018-04-04 18:32:26,582 -- INFO -- egon created a new dir [os] in dir [F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\egon\docs]
+2018-04-04 18:32:58,049 -- INFO -- egon removed a dir:F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\egon\docs\os
+2018-04-04 18:33:10,718 -- INFO -- neo just login
+2018-04-04 18:33:56,937 -- INFO -- neo just login
+2018-04-04 18:37:03,511 -- INFO -- neo just login
+2018-04-04 18:38:17,775 -- INFO -- neo just login
+2018-04-04 18:40:17,536 -- INFO -- neo just login
+2018-04-04 18:46:30,479 -- INFO -- neo just login
+2018-04-04 18:48:35,734 -- INFO -- neo just login
+2018-04-04 18:49:26,935 -- INFO -- neo just login
+2018-04-04 18:50:02,739 -- INFO -- neo re-downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\neo\video\kenan.mp4
+2018-04-04 18:50:27,774 -- INFO -- alex just login
+2018-04-04 18:52:13,598 -- INFO -- egon just login
+2018-04-04 18:53:10,335 -- INFO -- neo just login
+2018-04-04 18:54:52,423 -- INFO -- egon just login
+2018-04-04 18:55:48,519 -- INFO -- alex just login
+2018-04-04 18:56:21,734 -- INFO -- neo just login
+2018-04-04 18:56:44,303 -- INFO -- alex just login
+2018-04-04 18:58:02,960 -- INFO -- egon just login
+2018-04-04 18:58:10,610 -- INFO -- neo re-downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\neo\video\kenan.mp4
+2018-04-04 19:14:29,621 -- INFO -- neo just login
+2018-04-04 19:14:54,702 -- INFO -- alex just login
+2018-04-04 19:15:44,153 -- INFO -- egon just login
+2018-04-04 19:16:21,487 -- INFO -- neo just login
+2018-04-04 19:16:53,248 -- INFO -- neo re-downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\neo\video\kenan.mp4
+2018-04-05 00:33:47,076 -- INFO -- neo just login
+2018-04-05 00:34:15,749 -- INFO -- alex just login
+2018-04-05 00:36:05,625 -- INFO -- alex uploaded the file:F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\alex\test.mp4
+2018-04-05 00:36:25,960 -- INFO -- egon just login
+2018-04-05 00:37:36,724 -- INFO -- neo just login
+2018-04-05 00:38:26,315 -- INFO -- neo re-downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\neo\video\kenan.mp4
+2018-04-05 00:40:36,304 -- INFO -- egon just login
+2018-04-05 00:41:30,452 -- INFO -- mike just login
+2018-04-05 00:42:34,585 -- INFO -- mike re-downloaded the file: F:\learning\pycharm_pro\作业草稿\Module4\多线程FTP程序草稿\server\home\neo\video\kenan.mp4
+2018-05-26 03:41:47,216 -- INFO -- neo just login
+2018-05-26 03:43:41,042 -- INFO -- neo downloaded the file: F:\learning\作业提交\已提交\多线程FTP程序_郑鑫坤\server\home\neo\audio\pentakill.mp3
